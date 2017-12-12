@@ -1,6 +1,8 @@
 import fresh_tomatoes
 import media
 
+""" Create Movie instances """
+
 toy_story = media.Movie("Toy Story",
                         "A story of a boy and his toys that come to life",
                         "http://upload.wikimedia.org/wikipedia/en/1/13/Toy_Story.jpg",
@@ -33,6 +35,8 @@ shining = media.Movie("The Shining",
                 "https://www.youtube.com/watch?v=3b726feAhdU")
 
 movies = [toy_story, avatar, godfather, hunger_games, up, shining]
+
+""" Open browser """
 fresh_tomatoes.open_movies_page(movies)
 
 
