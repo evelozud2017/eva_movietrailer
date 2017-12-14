@@ -13,6 +13,12 @@ This consists of the following:
 # How to use
 Open the generated [fresh_tomatoes.html](https://evelozud2017.github.io/eva_movietrailer/fresh_tomatoes.html)
 
+# How to run code
+1. Download IDLE (https://www.python.org/downloads/)
+2. Download the code or clone the [repository](https://evelozud2017.github.io/eva_movietrailer/)
+3. Open entertainment_center.py from IDLE
+4. Run entertainment_center.py module from IDLE 
+
 License
 ----
 
